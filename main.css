@@ -3,7 +3,7 @@ body    {
         }
 
 header {
-        background-color: lightblue;
+        background: lightblue;
 }
 h1      {
         color: darkcyan;
