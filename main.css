@@ -1,7 +1,10 @@
 body    {
-        background-color: lightblue;
+        background-color: lightcyan;
         }
 
+header {
+        background-color: lightblue;
+}
 h1      {
         color: darkcyan;
         text-align: center;
